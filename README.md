@@ -11,7 +11,7 @@ ML model HTML/CSS/Flask
 ## Запуск проекта
 
 1. Скачиваем все  содержимое репозитрия 
-```php
-
+```
+ git clone 'https://github.com/NiuNai25/Project_3.git'
 ```
 2. Устанавливаем рабочую дерикторию в папке, где содержится script.py
