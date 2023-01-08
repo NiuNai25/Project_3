@@ -1,0 +1,67 @@
+.header_title {margin: 2% 30% 2% 40%;
+    height: 3vh;
+    color:#515252}
+
+.header_title:hover{
+    text-decoration: underline;
+    cursor: pointer;}
+
+.ml_body{
+  
+    display: flex;
+    flex-wrap: wrap;
+    color: #515252;
+    flex-direction: row;}
+
+.form{
+    margin: 0 0 0 5%;
+    border: 1px solid rgb(197, 197, 197);
+    box-shadow: 0px 0px 15px  rgb(233, 233, 233);
+    position: relative;
+    min-width: 470px;
+   
+    border-radius: 20px;
+    width: 30%;}
+
+.box{    border-width: 0;
+    color: #515252;
+    border-radius: 10px;
+    background: lightgray;;}  
+
+
+.box_submit{    width: 100%;
+    color: white;
+    background: black;
+    border-radius: 20px;
+    height: 40px;
+    margin: 5% 0 0 0;}      
+
+
+
+.img_body {
+    position: relative;
+    width: 40%;
+    left: 2%;}  
+
+.row{    display: flex;
+    margin: 5% 0px 5px 5%;
+    --bs-gutter-x: 0;
+    flex-direction: row;
+
+    justify-content: flex-start;
+    flex-wrap: nowrap;}
+
+.row_name{color: #515252}      
+.row_name:hover{
+        text-decoration: underline;
+        cursor: pointer;}    
+
+.row>* {
+        flex-shrink: 0;
+        width: 200px;
+        max-width: 100%;
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        margin-top: var(--bs-gutter-y);}
+
+
