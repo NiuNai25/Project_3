@@ -15,3 +15,11 @@ ML model HTML/CSS/Flask
  git clone 'https://github.com/NiuNai25/Project_3.git'
 ```
 2. Устанавливаем рабочую дерикторию в папке, где содержится script.py
+```
+cd '.\ML\'
+```
+3. Запускаем приложение
+
+```
+python script.py 
+```
