@@ -19,7 +19,7 @@ ML model HTML/CSS/Flask
 ```
 2. Устанавливаем рабочую дерикторию в папке, где содержится script.py
 ```
-cd 'C:\Users\USER\Desktop\HomeWork\ML'
+cd 'C:\Users\USER\Desktop\HomeWork\ML\Project_3\'
 ```
 3. Запускаем приложение
 
