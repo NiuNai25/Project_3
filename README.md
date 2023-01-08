@@ -26,7 +26,7 @@ cd 'C:\Users\USER\Desktop\HomeWork\ML'
 ```
 python script.py 
 ```
-4. Указываем параметры в форму , и нажимаем # SUBMIT ,
+4. Указываем параметры в форму , и нажимаем SUBMIT ,
  
  <img src=https://user-images.githubusercontent.com/117024752/211198775-93d27c07-5675-4198-af73-398b3e0c0511.png width=800 height=800>
 
