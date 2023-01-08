@@ -15,11 +15,11 @@ ML model HTML/CSS/Flask
 
 1. Скачиваем все  содержимое репозитрия 
 ```
- git clone 'https://github.com/NiuNai25/Project_3.git'
+ git clone https://github.com/NiuNai25/Project_3.git  'C:\Users\USER\Desktop\HomeWork\ML'
 ```
 2. Устанавливаем рабочую дерикторию в папке, где содержится script.py
 ```
-cd '.\ML\'
+cd 'C:\Users\USER\Desktop\HomeWork\ML'
 ```
 3. Запускаем приложение
 
